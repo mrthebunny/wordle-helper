@@ -1,6 +1,10 @@
 # wordle-helper
 
-Just a small helper tool in Node.JS I wrote to list the possible words after my guess.
+Just a small Wordle helper tool in Node.JS I wrote to list the possible words after my guesses.
+
+Wordle:
+https://www.nytimes.com/games/wordle/index.html
+
 
 usage:  node . "?i???" ne crane hoist
 - the first argument represents the "green" letters in Wordle 
